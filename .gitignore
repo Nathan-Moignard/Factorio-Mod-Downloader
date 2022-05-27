@@ -1,0 +1,8 @@
+# NodeJS Dependencies
+node_modules/
+
+# ZIP folder
+mods/
+
+# Credentials File
+.env
